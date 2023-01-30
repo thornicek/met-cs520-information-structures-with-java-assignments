@@ -6,7 +6,7 @@ public class Triples {
 	public static void main(String[] args) {
 		
 		System.out.println("Count   x   y   z");
-		int triplesCounter=0;
+		int triplesCounter= 0;
 		
 		int x, y, z;
 		
