@@ -1,0 +1,3 @@
+# MET CS 520 Information Structures with Java Assignments
+
+This repository contains all my assignments for my Information Structures with Java class. I this class we have covered an object-oriented aproach to software design and development using Java. This aproach covers the fundamentals of data types, control structures methods, classes, applets, arrays and strings, and proceeding to advanced topics such as inheritance and polymorphism, interfaces, creating user interfaces, exceptions, and streams. The goal of this course was to apply software engineering criteria to design and implement Java applications that are secure, robust, and scalable.
